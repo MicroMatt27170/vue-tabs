@@ -3,6 +3,7 @@
   "version": "0.0.0",
   "description": "Vue controls for bootstrap tabs ",
   "main": "index.js",
+  "private": false,
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -14,5 +15,13 @@
     "Bootstrap"
   ],
   "author": "Matthew Montes de Oca",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MicroMatt27170/vue-tabs.git"
+  },
+  "bugs": {
+    "url": "https://github.com/MicroMatt27170/vue-tabs/issues"
+  },
+  "homepage": "https://github.com/MicroMatt27170/vue-tabs#readme"
 }
